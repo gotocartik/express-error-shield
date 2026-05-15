@@ -1,6 +1,6 @@
 {
   "name": "express-error-shield",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A lightweight Express.js utility toolkit for handling async errors, standardized API responses, and global error middleware.",
   "type": "module",
   "main": "index.js",
