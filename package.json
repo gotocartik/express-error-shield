@@ -51,9 +51,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/express-error-shield"
+    "url": "https://github.com/gotocartik/express-error-shield.git"
   },
-  "funding": "https://github.com/sponsors/yourusername",
+  "funding": "https://buymeacoffee.com/gotocartik",
   "engines": {
     "node": ">=14.0.0"
   }
