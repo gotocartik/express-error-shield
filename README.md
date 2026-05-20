@@ -1,7 +1,7 @@
 # express-error-shield
 
 <p align="center">
-  <img src="https://img.shields.io/npm/dm/express-error-shield" alt="npm downloads" />
+  <img src="https://img.shields.io/npm/dw/express-error-shield" alt="npm weekly downloads" />
   <img src="https://img.shields.io/npm/dt/express-error-shield" alt="npm total downloads" />
   <img src="https://img.shields.io/npm/v/express-error-shield" alt="npm version" />
   <img src="https://img.shields.io/bundlephobia/min/express-error-shield" alt="bundle size" />

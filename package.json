@@ -33,6 +33,8 @@
     "http-status-codes",
     "paginate",
     "pagination-helper",
+    "created",
+    "no-content",
     "route-not-found",
     "catch-all",
     "lightweight",

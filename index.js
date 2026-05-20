@@ -39,6 +39,18 @@ export function success(res, data, message = "Success", status = 200) {
   });
 }
 
+export function created(res, data, message = "Created") {
+  return res.status(201).json({
+    success: true,
+    message,
+    data,
+  });
+}
+
+export function noContent(res) {
+  return res.status(204).end();
+}
+
 export function failure(res, message, status = 500, errors = null) {
   return res.status(status).json({
     success: false,
